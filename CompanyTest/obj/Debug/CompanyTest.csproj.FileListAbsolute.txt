@@ -1,0 +1,21 @@
+E:\works\C#\console app\CompanyTest\CompanyTest\obj\Debug\CompanyTest.csprojResolveAssemblyReference.cache
+E:\works\C#\console app\CompanyTest\CompanyTest\obj\Debug\CompanyTest.csproj.CoreCompileInputs.cache
+E:\works\C#\console app\CompanyTest\CompanyTest\bin\Debug\CompanyTest.exe.config
+E:\works\C#\console app\CompanyTest\CompanyTest\bin\Debug\CompanyTest.exe
+E:\works\C#\console app\CompanyTest\CompanyTest\bin\Debug\CompanyTest.pdb
+E:\works\C#\console app\CompanyTest\CompanyTest\obj\Debug\CompanyTest.exe
+E:\works\C#\console app\CompanyTest\CompanyTest\obj\Debug\CompanyTest.pdb
+D:\works\C#\console app\CompanyTest\CompanyTest\bin\Debug\CompanyTest.exe.config
+D:\works\C#\console app\CompanyTest\CompanyTest\bin\Debug\CompanyTest.exe
+D:\works\C#\console app\CompanyTest\CompanyTest\bin\Debug\CompanyTest.pdb
+D:\works\C#\console app\CompanyTest\CompanyTest\obj\Debug\CompanyTest.csprojAssemblyReference.cache
+D:\works\C#\console app\CompanyTest\CompanyTest\obj\Debug\CompanyTest.csproj.CoreCompileInputs.cache
+D:\works\C#\console app\CompanyTest\CompanyTest\obj\Debug\CompanyTest.exe
+D:\works\C#\console app\CompanyTest\CompanyTest\obj\Debug\CompanyTest.pdb
+D:\works\C#\console app\0-Special program\CompanyTest\CompanyTest\bin\Debug\CompanyTest.exe.config
+D:\works\C#\console app\0-Special program\CompanyTest\CompanyTest\bin\Debug\CompanyTest.exe
+D:\works\C#\console app\0-Special program\CompanyTest\CompanyTest\bin\Debug\CompanyTest.pdb
+D:\works\C#\console app\0-Special program\CompanyTest\CompanyTest\obj\Debug\CompanyTest.csprojAssemblyReference.cache
+D:\works\C#\console app\0-Special program\CompanyTest\CompanyTest\obj\Debug\CompanyTest.csproj.CoreCompileInputs.cache
+D:\works\C#\console app\0-Special program\CompanyTest\CompanyTest\obj\Debug\CompanyTest.exe
+D:\works\C#\console app\0-Special program\CompanyTest\CompanyTest\obj\Debug\CompanyTest.pdb
